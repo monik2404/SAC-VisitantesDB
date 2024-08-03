@@ -1,9 +1,8 @@
------------------------------------------------------------
-  Tablas base datos control de visitantes
-  Elaborado por: Monik P.
-  Version: 1
-  2024
--- --------------------------------------------------------
+
+  -- Tablas base datos control de visitantes
+  -- Elaborado por: Monik P.
+  -- Version: 1
+  -- 2024
 
 -- tabla usuarios
 CREATE TABLE IF NOT EXISTS usuarios (
